@@ -1,5 +1,5 @@
-a = int (input("Enter value of a"))
-b = int (input("Enter value of b"))
+a = float (input("Enter value of a"))
+b = float (input("Enter value of b"))
 
 if (a==b):
     print("Both are same")
